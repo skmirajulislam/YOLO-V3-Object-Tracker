@@ -39,7 +39,8 @@ Before running the script, make sure you have installed the required dependencie
 2. OpenCV: You can install it via pip:
 3. NumPy: You can install it via pip:
 
-   
+   ![YOLO](https://github.com/skmirajulislam/YOLO-V3-Object-Tracker/raw/master/YOLO.gif)
+
 
 5. Adjust the parameters as needed:
    - `image_path`: Path to the image file if you want to perform object detection on an image.
@@ -54,6 +55,5 @@ Before running the script, make sure you have installed the required dependencie
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-You can replace placeholders like `<placeholders>` with actual values and add more sections or information as needed. This README provides basic instructions for users to get started with your project.
+
